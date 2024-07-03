@@ -1,0 +1,28 @@
+Internet de las cosas CFG
+
+https://www.youtube.com/watch?v=IxgtaqnpSJQ
+
+Internet de las cosas
+
+El internet de las cosas (Internet of Things) se refiere a todos aquellos dispositivos con cierto grado de inteligencia que pueden ser conectados y accedidos desde internet.
+
+Pregunta 1 00:00:19
+¿Cuáles son algunos de los objetos que actualmente pueden ser conectados a internet?
+Automóviles
+Termostatos
+Equipos deportivos
+Refrigeradores
+Zapatos
+Planchas
+
+Pregunta 2 00:01:04
+Rellena los huecos con los términos apropiados, utilizando sólo en caso necesario, la combinación de mayúsculas y/o minúsculas, así como también la acentuación y ortografía correctas.
+
+Algunos otros campos a los que se extiene el internet de las cosas son la salud, la manufactura y la agricultura.
+
+
+Pregunta 3 00:01:18
+Un pirata podría desbloquear y abrir la puerta de tu casa de forma remota
+Tu casa se volvería más segura
+La cerradura se puede trabar y no abrir
+Estarías limitado a sólo abrir la puerta mediante tu móvil
